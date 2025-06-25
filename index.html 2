@@ -1,0 +1,99 @@
+ <!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Biodata Maria Anace Peelman</title>
+    <style>
+        body {
+            background-color: white;
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            color: black;
+        }
+        h1 {
+            text-align: center;
+            font-size: 28px;
+            color: black;
+        }
+        p.subtitle {
+            text-align: center;
+            font-size: 18px;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            width: 200px;
+            border-radius: 12px;
+        }
+        .section {
+            margin-top: 30px;
+        }
+        .section-title {
+            font-weight: bold;
+            font-size: 20px;
+            color: black;
+            margin-bottom: 10px;
+        }
+        .section-content {
+            color: deeppink;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            font-weight: bold;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Halaman Utama</h1>
+    <p class="subtitle">Selamat datang di Bio saya</p>
+
+    <!-- Ganti 'foto.jpg' dengan nama file foto kamu -->
+    <img src="foto.jpg" alt="Foto Maria Anace Peelman">
+
+    <div class="section">
+        <div class="section-title">Biodata</div>
+        <div class="section-content">
+            Halo, perkenalkan nama saya Maria Anace Peelman yang sering dipanggil Ria atau Mei. 
+            Saya adalah mahasiswi semester 4 dari kampus Universitas Kristen Maluku dengan Fakultas Ilmu Komputer 
+            prodi Informatika yang sekarang menggunakan teknologi dari JavaScript dan PHP. 
+            Saya adalah mahasiswi yang mendaftar pada tahun 2023.
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Hobi</div>
+        <div class="section-content">
+            Membaca novel. Selain membaca novel, saya juga menyukai fokus di mana minat saya bertemu dengan bakat saya 
+            dan saya pun tertarik untuk membuat website, kemudian biasanya saya upload ke GitHub sebagai arsip. 
+            Juga saya memiliki minat untuk menjadi konten kreator di sosial media lainnya.
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Pengalaman</div>
+        <div class="section-content">
+            Saya waktu SMK kelas 2 pernah mengikuti lomba pidato bersama teman-teman saya mewakili sekolah 
+            di mana lombanya tingkat kecamatan se-Maluku Barat Daya.
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Tujuan</div>
+        <div class="section-content">
+            Saya membuat biodata ini adalah semoga kelak nanti ini bisa jadi arsip 
+            yang mana saya bisa melihat potensi saya di tahun sekarang dan bisa mengembangkannya, 
+            juga sambil membagi ilmu yang saya dapat ke teman ataupun saudara saya.
+        </div>
+    </div>
+
+    <footer>
+        Dibuat oleh: mariapeelman3@gmail.com
+    </footer>
+
+</body>
+</html>
